@@ -1,4 +1,7 @@
 body{
+	border-style: groove;
+    border-color: coral;
+    border-width: 7px;
 	background: beige;
 }
 header{
